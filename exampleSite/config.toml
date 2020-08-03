@@ -1,4 +1,4 @@
-baseURL = "http://giacomonasilli.com"
+baseURL = "http://giacomonasilli.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
